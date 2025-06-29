@@ -67,6 +67,7 @@ Email: [harshamithajsg08@gmail.com]
 
 
 💡 Acknowledgment
+
 I would like to express my sincere gratitude to Gwing Technologies for providing me with the opportunity to complete this 4-week web development internship. It was a valuable learning experience that enhanced my understanding of frontend technologies and improved my practical skills in HTML, CSS, and JavaScript.
 
 I am thankful to the entire team at Gwing Technologies for their support, guidance, and for creating a structured learning environment. This internship has been an important step in my journey as a web developer, and I am truly grateful for the knowledge and experience I have gained.
