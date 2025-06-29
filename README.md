@@ -56,6 +56,7 @@ week4:https://harshamitha.github.io/Gwing-Project/week4/
 Gwing Technology
 
 📚 About the Internship
+
 I completed a 4-week web development internship at Gwing Technologies, where I worked on building key components of a website using HTML, CSS, and JavaScript. The internship provided hands-on experience and helped me strengthen my frontend development skills through weekly tasks and real-time project 
 implementation.
 
