@@ -62,8 +62,9 @@ implementation.
 📞 Contact
 
 Name: Harsha Mitha
+
 Email: [harshamithajsg08@gmail.com]
-GitHub:@harshamitha
+
 
 💡 Acknowledgment
 I would like to express my sincere gratitude to Gwing Technologies for providing me with the opportunity to complete this 4-week web development internship. It was a valuable learning experience that enhanced my understanding of frontend technologies and improved my practical skills in HTML, CSS, and JavaScript.
